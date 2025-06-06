@@ -15,6 +15,8 @@
 
 ---
 
+
+
 ## 🛠️ Technology Stack  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python, Django  
@@ -72,7 +74,11 @@ Go to: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 🎥 `Major-Project-Real.mp4`
 
 > A demo video showing real-time emotion recognition and adaptive learning interaction.
-> 📎 *\[Embed or link to video if hosted elsewhere, e.g., Google Drive or GitHub uploads]*
+ 
+
+https://github.com/user-attachments/assets/345d0ea1-0567-4432-8cfc-f045f28c6c86
+
+
 ---
 
 ## 🤝 Contributing
