@@ -1,32 +1,43 @@
 
 # 🌟 MindSync: Adaptive Learning Through Emotion Recognition
 
+
+## 🎥 Demo
+
+**Major-Project-Real.mp4**  
+> A demo video showing real-time emotion recognition and adaptive learning interaction.
+
+🔗 [Watch Demo](https://github.com/user-attachments/assets/345d0ea1-0567-4432-8cfc-f045f28c6c86)
+
+
+
 ## 🚀 Overview  
-**MindSync** is a web-based educational platform that integrates real-time emotion recognition to personalize the learning experience. By analyzing facial expressions, voice, and text interactions, it adapts content delivery to enhance student engagement and emotional well-being.
+
+**MindSync** is a web-based educational platform that integrates real-time emotion recognition to personalize the learning experience.  
+By analyzing facial expressions, voice, and text interactions, it adapts content delivery to enhance student engagement and emotional well-being.
 
 ---
 
 ## 🌟 Features  
-🎭 **Emotion Recognition**: Detects emotions like happiness, boredom, confusion, anxiety, and more.  
-📸 **Multi-Modal Inputs**: Uses webcam (face), microphone (voice), and text to detect emotions.  
-🧠 **Adaptive Learning**: Content dynamically adjusts based on emotional feedback.  
-📊 **Engagement Analytics**: Tracks emotional responses to improve learning outcomes.  
-💬 **Interactive Interface**: Easy-to-use UI for students and instructors.  
+
+- 🎭 **Emotion Recognition**: Detects emotions like happiness, boredom, confusion, anxiety, and more.  
+- 📸 **Multi-Modal Inputs**: Uses webcam (face), microphone (voice), and text to detect emotions.  
+- 🧠 **Adaptive Learning**: Content dynamically adjusts based on emotional feedback.  
+- 📊 **Engagement Analytics**: Tracks emotional responses to improve learning outcomes.  
+- 💬 **Interactive Interface**: Easy-to-use UI for students and instructors.  
 
 ---
 
-
-
 ## 🛠️ Technology Stack  
+
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python, Django  
 - **Emotion Detection**: TensorFlow, OpenCV  
-- **Deployment**: [Local Server]  
+- **Deployment**: Local Server  
 
+---
 
-## 📂 Project Structure
-'
-```
+## 📂 Project Structure  
 .
 ├── static/                 # Static files (CSS, JS, media)
 ├── templates/              # HTML frontend templates
@@ -35,17 +46,14 @@
 ├── requirements.txt        # Python dependencies
 └── manage.py               # Django server entry point
 
-```
-
----
 
 ## 🖥️ How to Run the Project  
 
 **1. Clone the Repository**  
 ```bash
 git clone https://github.com/Im-Mohammed/MindSync.git
-````
 
+```
 **2. Navigate to the Project Directory**
 
 ```bash
@@ -65,19 +73,7 @@ python manage.py runserver
 ```
 
 **5. Open in Browser**
-Go to: [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
----
-
-## 📊 Demo
-
-🎥 `Major-Project-Real.mp4`
-
-> A demo video showing real-time emotion recognition and adaptive learning interaction.
- 
-
-https://github.com/user-attachments/assets/345d0ea1-0567-4432-8cfc-f045f28c6c86
-
+Visit: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
@@ -105,16 +101,24 @@ Contributions are welcome!
    ```
 5. Open a pull request
 
+---
+
 ## 📜 License
+
 This project is licensed under the **Apache 2.0 License**.
+
+---
 
 ## 📧 Contact
 
-Mohammed
+**Mohammed**
 🌐 GitHub: [Im-Mohammed](https://github.com/Im-Mohammed)
+
+---
 
 ## ❤️ Acknowledgments
 
 * Educational inspiration drawn from challenges in online engagement.
 * Built using tools like TensorFlow, OpenCV, Django, HTML, CSS, and JS.
+
 
