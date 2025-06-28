@@ -38,7 +38,7 @@ By analyzing facial expressions, voice, and text interactions, it adapts content
 ---
 
 ## 📂 Project Structure  
-├── static/          # Static files (CSS, JS, media)                                                                                                                                                        
+├── static/          # Static files (CSS, JS, media)                                                                                                                                                     
 ├── templates/       # HTML frontend templates                                                                                                                                                             
 ├── models/          # Pre-trained emotion recognition models                                                                                                                                               
 ├── app/             # Django views and logic                                                                                                                                                               
