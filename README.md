@@ -45,7 +45,7 @@ By analyzing facial expressions, voice, and text interactions, it adapts content
 ├── requirements.txt        # Python dependencies
 └── manage.py               # Django server entry point
 
-
+---
 ## 🖥️ How to Run the Project  
 
 **1. Clone the Repository**  
