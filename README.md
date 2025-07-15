@@ -119,5 +119,3 @@ This project is licensed under the **Apache 2.0 License**.
 
 * Educational inspiration drawn from challenges in online engagement.
 * Built using tools like TensorFlow, OpenCV, Django, HTML, CSS, and JS.
-
-
