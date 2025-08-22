@@ -33,7 +33,7 @@ By analyzing facial expressions, voice, and text interactions, it adapts content
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python, Django  
 - **Emotion Detection**: TensorFlow, OpenCV  
-- **Deployment**: Local Server  
+- **Deployment**: Local Server []
 
 ---
 
