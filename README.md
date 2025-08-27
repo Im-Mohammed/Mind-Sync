@@ -1,4 +1,3 @@
-
 # 🌟 MindSync: Adaptive Learning Through Emotion Recognition
 
 
