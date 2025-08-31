@@ -1,6 +1,5 @@
 # 🌟 MindSync: Adaptive Learning Through Emotion Recognition
 
-
 ## 🎥 Demo
 
 **Major-Project-Real.mp4**  
