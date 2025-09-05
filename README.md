@@ -6,8 +6,6 @@
 
 🔗 [Watch Demo](https://github.com/user-attachments/assets/345d0ea1-0567-4432-8cfc-f045f28c6c86)
 
-
-
 ## 🚀 Overview  
 
 **MindSync** is a web-based educational platform that integrates real-time emotion recognition to personalize the learning experience.  
