@@ -1,5 +1,4 @@
 # 🌟 MindSync: Adaptive Learning Through Emotion Recognition
-
 ## 🎥 Demo
 **Major-Project-Real.mp4**  
 > A demo video showing real-time emotion recognition and adaptive learning interaction.
