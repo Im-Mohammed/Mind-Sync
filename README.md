@@ -9,7 +9,6 @@
 
 **MindSync** is a web-based educational platform that integrates real-time emotion recognition to personalize the learning experience.  
 By analyzing facial expressions, voice, and text interactions, it adapts content delivery to enhance student engagement  and emotional well-being.
-
 ---
 
 ## 🌟 Features  
