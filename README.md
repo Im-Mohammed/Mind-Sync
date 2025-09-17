@@ -104,7 +104,6 @@ This project is licensed under the **Apache 2.0 License**.
 
 **Mohammed**
 🌐 GitHub: [Im-Mohammed](https://github.com/Im-Mohammed)
-
 ---
 ## ❤️ Acknowledgments
 * Educational inspiration drawn from challenges in online engagement.
